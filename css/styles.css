@@ -14,15 +14,18 @@
   padding-right: 50px
 }
 
+.col-md-8 {
+  padding: 35px;
+}
+
 .border-2 {
   background-color: #9fccce;
   margin-top: 30px;
-  border: 10px double black;
   padding: 30px 50px 30px 40px;
 }
 
 .language {
-  color: blue
+  color: #139916;
 }
 
 .img-1 {
