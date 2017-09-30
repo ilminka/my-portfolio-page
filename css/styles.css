@@ -1,6 +1,17 @@
 .page {
-  background-color: #b9b3c6;
+  background-color: #e0dbdb;
 }
 
-#595560
-#c4aeb1
+img {
+
+  border: 2px solid black;
+}
+
+.jumbotron {
+  background-color: #074c44;
+  border: 2px solid black;
+}
+
+.border {
+  border: 2px solid black;
+  background-color: white;
