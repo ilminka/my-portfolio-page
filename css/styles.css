@@ -14,6 +14,20 @@
   padding-right: 50px
 }
 
+.border-2 {
+  background-color: #9fccce;
+  margin-top: 30px;
+  border: 10px double black;
+  padding: 30px 50px 30px 40px;
+}
+
 .language {
-  color: red
+  color: blue
+}
+
+.img-1 {
+  float: right;
+  border: 2px solid black;
+  margin-top: 30px;
+  padding: 30px 50px 30px 445px;
 }
