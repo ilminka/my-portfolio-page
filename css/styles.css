@@ -2,16 +2,13 @@
   background-color: #e0dbdb;
 }
 
-img {
-
-  border: 2px solid black;
-}
-
 .jumbotron {
-  background-color: #074c44;
+  background-color: #9fccce;
   border: 2px solid black;
+  border-radius: 0 !important;
 }
 
 .border {
   border: 2px solid black;
-  background-color: white;
+  background-color: #9fccce;
+}
