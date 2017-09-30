@@ -1,37 +1,32 @@
-# _My Portfolio Page_
+# My Portfolio Page
 
-#### _My Epicodus Portfolio page, September 29,2017_
+#### My Epicodus Portfolio Page, September 29,2017
 
-#### By _**Lindsey Halliday**_
+#### By **Lindsey Halliday**
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+This webpage introduces myself, as well as the projects that I have worked on at Epicodus thus far. The site includes an "About Me" section and a section that links each my projects to the repositories on GitHub. HTML, CSS, and Bootstrap were used to write and style the webpage.
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+* Create a new directory call "my-portfolio-page" on your desktop.
+* Open the GitHub repository that I created for the portfolio project.
+* Clone the repository, with the command "git clone [repository url]", into the local directory.
+* Open code with the command "atom ."
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+There are no bugs present.
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+If there are any issues, questions or comments on the code, please feel free to reach out to Lindsey Halliday.
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+HTML, CSS, Bootstrap v.3.7, GitHub and Atom were used to create this webpage.
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-
-Copyright (c) 2015 **_{List of contributors or company name}_**
+Copyright (c) 2017 Lindsey Halliday
