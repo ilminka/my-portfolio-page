@@ -15,6 +15,8 @@ This webpage introduces myself, as well as the projects that I have worked on at
 * Clone the repository, with the command "git clone [repository url]", into the local directory.
 * Open code with the command "atom ."
 
+Here is a link to the project in GitHub. https://github.com/ilminka/my-portfolio-page 
+
 ## Known Bugs
 
 There are no bugs present.
