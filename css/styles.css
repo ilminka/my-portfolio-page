@@ -5,15 +5,23 @@
 .jumbotron {
   color: #514646;
   background-color: white;
-  border: 5px double #514646;
-  border-radius: 0 !important;
+  /*border: 5px double #514646;*/
+  border-radius: 0 0 10px 10px !important;
 }
 
 .border {
-  border: 5px double #514646;
+  /*border: 5px double #514646;*/
   background-color: white;
   color: #514646;
-  padding-right: 40px
+  padding-right: 40px;
+}
+
+.rounded {
+  border-radius: 10px;
+}
+
+#profile-photo {
+  border-radius: 10px 0 0 10px;
 }
 
 .col-md-8 {
@@ -23,7 +31,7 @@
 .border-2 {
   background-color: white;
   color: #514646;
-  border: 5px double #514646;
+  /*border: 5px double #514646;*/
   margin-top: 30px;
   padding: 30px 50px 30px 40px;
 }
